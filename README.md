@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-## Programming Skills
-* Test
+## Software Developer Skills
+  * Test
 
 
 ## ⚒️ - Toolset
-  # Lingos
-    * C#
-    * C++
-    * 
+  #### Lingos
+   * C#
+   * C++
+   * Typescript
     
     
-  ### Frameworks / Solutions
-  * Angular (frontend web development)
-  * ASP.Net Core  (backend web development)
+  #### Frameworks / Solutions
+  * Angular (Frontend web development)
+  * ASP.Net Core  (Backend web development)
   * WPF (Desktop Dotnet development)
  
 
