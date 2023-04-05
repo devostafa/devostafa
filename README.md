@@ -11,7 +11,7 @@
     * 
     
     
-  # Frameworks / Solutions
+  ### Frameworks / Solutions
   * Angular (frontend web development)
   * ASP.Net Core  (backend web development)
   * WPF (Desktop Dotnet development)
