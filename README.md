@@ -8,6 +8,7 @@
   #### Lingos
    * C#
    * C++
+   * Python
    * Typescript
     
     
