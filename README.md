@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Software Developer Skills
+## Software Developer/Engineer Skills
   * Test
 
 
