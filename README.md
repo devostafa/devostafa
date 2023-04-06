@@ -6,14 +6,14 @@
 
 ## ⚒️ - Toolset
   #### Lingos
-   * C#
+   * C# 
    * C++
    * Python
    * Typescript
     
     
   #### Frameworks / Solutions
-  * Angular (Frontend web development)
+  * Angular (Frontend web development) <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   * ASP.Net Core  (Backend web development)
   * WPF (Desktop Dotnet development)
  
