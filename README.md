@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## Software Developer/Engineer Skills
-  * Test
+  * Object-Orientated Design and Implementation
+  * Algorithms and Data Structures
 
 
 ## ⚒️ - Toolset
