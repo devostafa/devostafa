@@ -3,6 +3,7 @@
 ## Software Developer/Engineer Skills
   * Object-Orientated Design and Implementation
   * Algorithms and Data Structures
+  * Full-Stack Development
 
 
 ## ⚒️ - Toolset
