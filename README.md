@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Software Developer/Engineer Skills
-  * Object-Orientated Design and Implementation
+  * Object-Orientated Systems Design and Implementation
   * Algorithms and Data Structures
   * Full-Stack Web Development
 
